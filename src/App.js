@@ -1,5 +1,5 @@
 import './App.css'
-import Todo from './Todo/Todo.js'
+import Todo from './Components/Todo/Todo.js'
 
 const App = () => {
   return (
