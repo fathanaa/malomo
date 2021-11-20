@@ -1,10 +1,9 @@
 import './App.css'
-import Todo from './Components/Todo/Todo.js'
 
 const App = () => {
   return (
     <div className='App'>
-      <Todo />
+      <h2>Malomo</h2>
     </div>
   )
 }
