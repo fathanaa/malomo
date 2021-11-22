@@ -1,12 +1,17 @@
-import './App.css'
-import Todo from './Todo/Todo.js'
 
-const App = () => {
+import NavBar from './Component/NavBar/NavBar.js'
+import Showcase from './Component/Showcase/Showcase.js';
+
+import './App.css';
+
+function App() {
   return (
-    <div className='App'>
-      <Todo />
+    <div className="App">
+      <NavBar />
+
+      
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
