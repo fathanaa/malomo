@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.ShowcaseText-1{
+    font-family: 'Righteous', cursive;
+    text-align: left;
+    font-size: 36px;
+    background-color: aquamarine;
+    
+}
