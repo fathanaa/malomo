@@ -5,10 +5,13 @@
     padding: 0;
 }
 
+.ShowcaseText{
+    padding: 62px;
+}
+
 .ShowcaseText-1{
     font-family: 'Righteous', cursive;
     text-align: left;
-    font-size: 36px;
-    background-color: aquamarine;
-    
+    font-size: 52px;    
+    line-height: 1;
 }

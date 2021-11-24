@@ -3,7 +3,7 @@ import './ShowcaseText.css'
 
 const ShowcaseText = () => {
     return(
-        <Container fluid className="justify-content-md-center">
+        <Container fluid className="ShowcaseText">
             <Row>
                 <Col>
                     <p className="ShowcaseText-1">MALOMO TEKNOLOGI </p>

@@ -1,11 +1,17 @@
+import './ShowcaseImage.css'
+
 const ShowcaseImage = () => {
     return(
-        <a href="https://ibb.co/vYfVv9s">
-            <img
-            src="https://i.ibb.co/vYfVv9s/bgimage.jpg"
-            alt="bgimage"
-            border="0" />
-        </a>
+        <div className="ShowcaseLogo">
+            <a
+            href="https://ibb.co/Kz1MyTQ">
+             <img
+              src="https://i.ibb.co/Kz1MyTQ/logo.png" 
+              alt="logo" 
+              border="0"/>            
+            </a>
+        </div>
+        
     )
 }
 
