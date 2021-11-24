@@ -1,23 +1,15 @@
-import logo from './malomo-logo.png';
+import NavBar from './Components/NavBar/NavBar.js'
+import Showcase from './Components/Showcase/Showcase.js'
+import RnD from './Components/RnD/RnD.js'
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Underconstruction.
-        </p>
-        {/* <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a> */}
-      </header>
+      <NavBar />
+      <Showcase />
+      
     </div>
   );
 }
