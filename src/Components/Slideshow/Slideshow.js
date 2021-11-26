@@ -8,28 +8,29 @@ import 'swiper/swiper.min.css'
 const Slideshow = () => {
     return(
         <div className='Slideshow'>
+
             <ImageSlide 
             data={{
                 name:'Foto1',
-                source:'https://raw.githubusercontent.com/fathanaa/malomo/main/src/Asset/Image/Innovation_GA1.png'
+                source:'https://i.ibb.co/0mQvnH4/Copy-of-DSCF3361-1.png'
             }}/>
 
             <ImageSlide 
             data={{
                 name:'Foto1',
-                source:'https://raw.githubusercontent.com/fathanaa/malomo/main/src/Asset/Image/Innovation_GA1.png'
+                source:'https://i.ibb.co/wCFyV6m/Copy-of-DSCF3150-1.png'
             }}/>
 
             <ImageSlide 
             data={{
                 name:'Foto1',
-                source:'https://raw.githubusercontent.com/fathanaa/malomo/main/src/Asset/Image/Innovation_GA1.png'
+                source:'https://i.ibb.co/m4Yh9vV/Copy-of-DSCF3629-1.png'
             }}/>
 
             <ImageSlide 
             data={{
                 name:'Foto1',
-                source:'https://raw.githubusercontent.com/fathanaa/malomo/main/src/Asset/Image/Innovation_GA1.png'
+                source:'https://i.ibb.co/0mQvnH4/Copy-of-DSCF3361-1.png'
             }}/>
            
            <Swiper
