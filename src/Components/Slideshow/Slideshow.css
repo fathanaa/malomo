@@ -1,0 +1,9 @@
+.Slideshow{
+    margin: auto;
+    width: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 240px;
+    overflow: hidden;
+}
